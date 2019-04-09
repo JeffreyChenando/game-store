@@ -1,0 +1,959 @@
+03.03:23.51.54 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:49 - java.io.FileNotFoundException: C:\Users\game-store\csv\PLAYER.csv (Системе не удается найти указанный путь)
+03.03:23.51.54 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:49 - java.io.FileNotFoundException: C:\Users\game-store\csv\PLAYER.csv (Системе не удается найти указанный путь)
+03.03:23.51.54 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:49 - java.io.FileNotFoundException: C:\Users\game-store\csv\PUBLISHER.csv (Системе не удается найти указанный путь)
+03.03:23.51.54 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:49 - java.io.FileNotFoundException: C:\Users\game-store\csv\PUBLISHER.csv (Системе не удается найти указанный путь)
+03.03:23.51.54 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:49 - java.io.FileNotFoundException: C:\Users\game-store\csv\GAME.csv (Системе не удается найти указанный путь)
+03.03:23.51.54 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:49 - java.io.FileNotFoundException: C:\Users\game-store\csv\GAME.csv (Системе не удается найти указанный путь)
+03.04:00.35.36  INFO	ru.sfedu.gamestore.api.DataProviderCsv:27 - java.nio.file.NoSuchFileException: C:\Users\game-store\csv
+03.04:00.35.36 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\Users\game-store\csv\PLAYER.csv (Системе не удается найти указанный путь)
+03.04:00.35.36 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\Users\game-store\csv\PLAYER.csv (Системе не удается найти указанный путь)
+03.04:00.35.36 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\Users\game-store\csv\PUBLISHER.csv (Системе не удается найти указанный путь)
+03.04:00.35.36 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\Users\game-store\csv\PUBLISHER.csv (Системе не удается найти указанный путь)
+03.04:00.35.36 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\Users\game-store\csv\GAME.csv (Системе не удается найти указанный путь)
+03.04:00.35.36 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\Users\game-store\csv\GAME.csv (Системе не удается найти указанный путь)
+03.04:00.38.59 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:27 - java.nio.file.NoSuchFileException: C:\Users\game-store\csv
+03.04:00.38.59 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\Users\game-store\csv\PLAYER.csv (Системе не удается найти указанный путь)
+03.04:00.38.59 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\Users\game-store\csv\PLAYER.csv (Системе не удается найти указанный путь)
+03.04:00.38.59 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\Users\game-store\csv\PUBLISHER.csv (Системе не удается найти указанный путь)
+03.04:00.38.59 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\Users\game-store\csv\PUBLISHER.csv (Системе не удается найти указанный путь)
+03.04:00.38.59 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\Users\game-store\csv\GAME.csv (Системе не удается найти указанный путь)
+03.04:00.38.59 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\Users\game-store\csv\GAME.csv (Системе не удается найти указанный путь)
+03.04:00.39.27 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:27 - java.nio.file.NoSuchFileException: C:\game-store\csv
+03.04:00.39.27 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\game-store\csv\PLAYER.csv (Системе не удается найти указанный путь)
+03.04:00.39.27 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\game-store\csv\PLAYER.csv (Системе не удается найти указанный путь)
+03.04:00.39.27 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\game-store\csv\PUBLISHER.csv (Системе не удается найти указанный путь)
+03.04:00.39.27 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\game-store\csv\PUBLISHER.csv (Системе не удается найти указанный путь)
+03.04:00.39.27 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\game-store\csv\GAME.csv (Системе не удается найти указанный путь)
+03.04:00.39.27 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:59 - java.io.FileNotFoundException: C:\game-store\csv\GAME.csv (Системе не удается найти указанный путь)
+03.04:00.44.16  WARN	ru.sfedu.gamestore.api.DataProviderCsv:90 - Player 1: [incorrect account]
+03.04:00.44.16  WARN	ru.sfedu.gamestore.api.DataProviderCsv:90 - Publisher 1: [incorrect account]
+03.04:00.44.16  WARN	ru.sfedu.gamestore.api.DataProviderCsv:90 - Game 1: [incorrect price]
+03.04:01.08.16  INFO	ru.sfedu.gamestore.api.DataProviderCsv:26 - Directory C:/game-store created
+03.04:01.09.17  INFO	ru.sfedu.gamestore.api.DataProviderCsv:26 - Directory C:/User/csv created
+03.04:01.10.54 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:66 - java.io.FileNotFoundException: C:\Users\game-store\csv\PLAYER.csv (Системе не удается найти указанный путь)
+03.04:01.10.54 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:66 - java.io.FileNotFoundException: C:\Users\game-store\csv\PLAYER.csv (Системе не удается найти указанный путь)
+03.04:01.10.54 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:66 - java.io.FileNotFoundException: C:\Users\game-store\csv\PUBLISHER.csv (Системе не удается найти указанный путь)
+03.04:01.10.54 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:66 - java.io.FileNotFoundException: C:\Users\game-store\csv\PUBLISHER.csv (Системе не удается найти указанный путь)
+03.04:01.10.54 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:66 - java.io.FileNotFoundException: C:\Users\game-store\csv\GAME.csv (Системе не удается найти указанный путь)
+03.04:01.10.54 ERROR	ru.sfedu.gamestore.api.DataProviderCsv:66 - java.io.FileNotFoundException: C:\Users\game-store\csv\GAME.csv (Системе не удается найти указанный путь)
+03.04:01.11.22  INFO	ru.sfedu.gamestore.api.DataProviderCsv:26 - Directory C:/game-store/csv created
+03.04:02.43.45  INFO	ru.sfedu.gamestore.api.DataProviderXml:32 - Directory C:/game-store/xml is created
+03.04:02.43.45  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:02.43.45  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:02.43.46  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.43.47  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.43.47  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:02.43.47  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:02.43.47  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:02.43.47  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:02.43.47  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:02.43.47  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:02.43.47  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.43.47  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:02.43.47  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:02.43.47  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:02.43.47  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:02.44.54  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:02.44.54  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:02.44.54  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:02.44.55  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:02.47.29  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:02.55.36  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:02.55.37  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:02.57.08  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:02.57.08  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:02.57.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.03.24  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:03.03.24  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.03.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.03.58  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:03.03.58  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:03.03.58  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.03.58  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.03.58  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:03.03.58  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:03.03.58  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.03.58  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.03.58  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:03.03.58  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.03.59  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.04.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:104 - java.lang.NoSuchMethodException: java.time.LocalDateTime.<init>()
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.04.41  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[7,28]
+Message: XML document structures must start and end within the same entity.
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-03-04T03:11:22.120, price=400.0}
+03.04:03.11.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=2, TransType=PURCHASE, PlayerId=1, GameId=2, time=2019-03-04T03:11:22.123, price=1000.0}
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:139 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:102 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.11.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:122 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:153 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:153 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:116 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:116 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:153 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:153 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:116 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:116 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:153 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:153 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:116 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:116 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:153 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:153 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:116 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-03-04T03:20:49.897, price=400.0}
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:116 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=2, TransType=PURCHASE, PlayerId=1, GameId=2, time=2019-03-04T03:20:49.900, price=1000.0}
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:153 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:153 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:116 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:03.20.50  INFO	ru.sfedu.gamestore.api.DataProviderXml:116 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:03.20.51  INFO	ru.sfedu.gamestore.api.DataProviderXml:136 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.20.51  INFO	ru.sfedu.gamestore.api.DataProviderXml:136 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.20.51  INFO	ru.sfedu.gamestore.api.DataProviderXml:136 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.20.51  INFO	ru.sfedu.gamestore.api.DataProviderXml:136 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.20.51  INFO	ru.sfedu.gamestore.api.DataProviderXml:136 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.20.51  INFO	ru.sfedu.gamestore.api.DataProviderXml:136 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.20.51  INFO	ru.sfedu.gamestore.api.DataProviderXml:136 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.20.51  INFO	ru.sfedu.gamestore.api.DataProviderXml:136 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.20.51  INFO	ru.sfedu.gamestore.api.DataProviderXml:136 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.20.51  INFO	ru.sfedu.gamestore.api.DataProviderXml:136 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.30.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:03.30.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-03-04T03:30:15.329, price=400.0}
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=2, TransType=PURCHASE, PlayerId=1, GameId=2, time=2019-03-04T03:30:15.331, price=1000.0}
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.30.16  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\PLAYER.xml (Не удается найти указанный файл)
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\GAME.xml (Не удается найти указанный файл)
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:03.31.25  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-03-04T03:31:25.246, price=400.0}
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=2, TransType=PURCHASE, PlayerId=1, GameId=2, time=2019-03-04T03:31:25.248, price=1000.0}
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.io.FileNotFoundException: C:\game-store\xml\REVIEW.xml (Не удается найти указанный файл)
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text='null'}
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.31.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.36.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.36.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.36.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.36.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.36.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.36.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.36.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-03-04T03:36:11.079, price=400.0}
+03.04:03.36.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=2, TransType=PURCHASE, PlayerId=1, GameId=2, time=2019-03-04T03:36:11.082, price=1000.0}
+03.04:03.36.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:03.36.11  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:03.36.12  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.36.12  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.36.12  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.36.12  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.36.12  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.36.12  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.36.12  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.36.12  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.36.12  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.36.12  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:117 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:117 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:117 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:117 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:117 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:117 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:117 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-03-04T03:37:20.563, price=400.0}
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:117 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=2, TransType=PURCHASE, PlayerId=1, GameId=2, time=2019-03-04T03:37:20.565, price=1000.0}
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:117 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:117 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:137 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:137 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:137 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:137 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.37.21  INFO	ru.sfedu.gamestore.api.DataProviderXml:137 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.37.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:137 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.37.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:137 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.37.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:137 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.37.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:137 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.37.22  INFO	ru.sfedu.gamestore.api.DataProviderXml:137 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.lang.NullPointerException
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.lang.NullPointerException
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-03-04T03:38:25.537, price=400.0}
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=2, TransType=PURCHASE, PlayerId=1, GameId=2, time=2019-03-04T03:38:25.540, price=1000.0}
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.lang.NullPointerException
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.lang.NullPointerException
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:118 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=2, mark=44, text=''}
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.lang.NullPointerException
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:155 - java.lang.NullPointerException
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.38.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:138 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-03-04T03:39:25.583, price=400.0}
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=2, TransType=PURCHASE, PlayerId=1, GameId=2, time=2019-03-04T03:39:25.585, price=1000.0}
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text=''}
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text=''}
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.39.26  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-03-04T03:40:14.567, price=400.0}
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=2, TransType=PURCHASE, PlayerId=1, GameId=2, time=2019-03-04T03:40:14.569, price=1000.0}
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text='Great thing ever'}
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text='It's sucks'}
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\GAME.xml
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:03.40.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:71 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:71 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:71 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:193 - The url cannot be null
+03.04:05.28.33 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:71 - java.sql.SQLException: The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - The url cannot be null
+03.04:05.28.33  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - The url cannot be null
+03.04:05.31.25 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:71 - java.sql.BatchUpdateException: Batch entry 0 CREATE TABLE IF NOT EXISTS PLAYER(id BIGINT,name VARCHAR (64),login VARCHAR (64),password VARCHAR (64),account DOUBLE,games TEXT) was aborted: ОШИБКА: тип "double" не существует
+  Позиция: 112  Call getNextException to see other errors in the batch.
+03.04:05.31.25  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - ОШИБКА: отношение "player" не существует
+  Позиция: 15
+03.04:05.31.25 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - org.postgresql.util.PSQLException: ОШИБКА: отношение "player" не существует
+  Позиция: 13
+03.04:05.31.25  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - ОШИБКА: отношение "player" не существует
+  Позиция: 15
+03.04:05.31.26 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - org.postgresql.util.PSQLException: ОШИБКА: отношение "player" не существует
+  Позиция: 13
+03.04:05.31.26  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - ОШИБКА: отношение "publisher" не существует
+  Позиция: 15
+03.04:05.31.26 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - org.postgresql.util.PSQLException: ОШИБКА: отношение "publisher" не существует
+  Позиция: 13
+03.04:05.31.26  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - ОШИБКА: отношение "publisher" не существует
+  Позиция: 15
+03.04:05.31.27 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - org.postgresql.util.PSQLException: ОШИБКА: отношение "publisher" не существует
+  Позиция: 13
+03.04:05.31.27  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - ОШИБКА: отношение "game" не существует
+  Позиция: 15
+03.04:05.31.27 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - org.postgresql.util.PSQLException: ОШИБКА: отношение "game" не существует
+  Позиция: 13
+03.04:05.31.27  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - ОШИБКА: отношение "game" не существует
+  Позиция: 15
+03.04:05.31.27 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - org.postgresql.util.PSQLException: ОШИБКА: отношение "game" не существует
+  Позиция: 13
+03.04:05.31.27  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - ОШИБКА: отношение "transaction" не существует
+  Позиция: 15
+03.04:05.31.28 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - org.postgresql.util.PSQLException: ОШИБКА: отношение "transaction" не существует
+  Позиция: 13
+03.04:05.31.28  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - ОШИБКА: отношение "transaction" не существует
+  Позиция: 15
+03.04:05.31.28 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - org.postgresql.util.PSQLException: ОШИБКА: отношение "transaction" не существует
+  Позиция: 13
+03.04:05.31.28  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - ОШИБКА: отношение "review" не существует
+  Позиция: 15
+03.04:05.31.28 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - org.postgresql.util.PSQLException: ОШИБКА: отношение "review" не существует
+  Позиция: 13
+03.04:05.31.28  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - ОШИБКА: отношение "review" не существует
+  Позиция: 15
+03.04:05.31.29 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - org.postgresql.util.PSQLException: Unterminated string literal started at position 54 in SQL INSERT INTO REVIEW VALUES('0','1','2','44','It's sucks'). Expected  char
+03.04:05.31.29 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:71 - java.sql.BatchUpdateException: Batch entry 0 CREATE TABLE IF NOT EXISTS PLAYER(id BIGINT,name VARCHAR (64),login VARCHAR (64),password VARCHAR (64),account DOUBLE,games TEXT) was aborted: ОШИБКА: тип "double" не существует
+  Позиция: 112  Call getNextException to see other errors in the batch.
+03.04:05.31.29  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - ОШИБКА: отношение "player" не существует
+  Позиция: 15
+03.04:05.31.29 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:71 - java.sql.BatchUpdateException: Batch entry 0 CREATE TABLE IF NOT EXISTS PLAYER(id BIGINT,name VARCHAR (64),login VARCHAR (64),password VARCHAR (64),account DOUBLE,games TEXT) was aborted: ОШИБКА: тип "double" не существует
+  Позиция: 112  Call getNextException to see other errors in the batch.
+03.04:05.31.29  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:193 - ОШИБКА: отношение "player" не существует
+  Позиция: 15
+03.04:05.31.29 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:71 - java.sql.BatchUpdateException: Batch entry 0 CREATE TABLE IF NOT EXISTS PLAYER(id BIGINT,name VARCHAR (64),login VARCHAR (64),password VARCHAR (64),account DOUBLE,games TEXT) was aborted: ОШИБКА: тип "double" не существует
+  Позиция: 112  Call getNextException to see other errors in the batch.
+03.04:05.31.29  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - ОШИБКА: отношение "player" не существует
+  Позиция: 13
+03.04:05.31.29  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - ОШИБКА: отношение "player" не существует
+  Позиция: 13
+03.04:05.31.30  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - ОШИБКА: отношение "publisher" не существует
+  Позиция: 13
+03.04:05.31.30  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - ОШИБКА: отношение "publisher" не существует
+  Позиция: 13
+03.04:05.31.30  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - ОШИБКА: отношение "game" не существует
+  Позиция: 13
+03.04:05.31.30  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - ОШИБКА: отношение "game" не существует
+  Позиция: 13
+03.04:05.31.30  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - ОШИБКА: отношение "transaction" не существует
+  Позиция: 13
+03.04:05.31.30  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - ОШИБКА: отношение "transaction" не существует
+  Позиция: 13
+03.04:05.31.30  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - ОШИБКА: отношение "review" не существует
+  Позиция: 13
+03.04:05.31.30  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:148 - ОШИБКА: отношение "review" не существует
+  Позиция: 13
+03.04:05.47.32 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:71 - java.sql.BatchUpdateException: Batch entry 0 CREATE TABLE IF NOT EXISTS PLAYER(id BIGINT,name VARCHAR (64),login VARCHAR (64),password VARCHAR (64),account DOUBLE,games TEXT) was aborted: ОШИБКА: тип "double" не существует
+  Позиция: 112  Call getNextException to see other errors in the batch.
+03.04:05.49.22 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:71 - java.sql.BatchUpdateException: Batch entry 1 CREATE TABLE IF NOT EXISTS PUBLISHER(id BIGINT,name VARCHAR (64),login VARCHAR (64),password VARCHAR (64),account DOUBLE,description TEXT) was aborted: ОШИБКА: тип "double" не существует
+  Позиция: 115  Call getNextException to see other errors in the batch.
+03.04:05.50.42  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - Player 0: [incorrect account]
+03.04:05.50.42  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - Publisher 0: [incorrect account]
+03.04:05.50.43  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - Game 0: [incorrect price]
+03.04:05.50.44  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - Transaction 0: [incorrect price]
+03.04:05.50.44 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - org.postgresql.util.PSQLException: Unterminated string literal started at position 54 in SQL INSERT INTO REVIEW VALUES('1','1','2','44','It's sucks'). Expected  char
+03.04:05.54.44  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - Player 0: [incorrect account]
+03.04:05.54.45  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - Publisher 0: [incorrect account]
+03.04:05.54.46  INFO	ru.sfedu.gamestore.api.DataProviderJdbc:171 - Transaction 0: [incorrect price]
+03.04:05.54.47 ERROR	ru.sfedu.gamestore.api.DataProviderJdbc:134 - org.postgresql.util.PSQLException: Unterminated string literal started at position 54 in SQL INSERT INTO REVIEW VALUES('1','1','2','44','It's sucks'). Expected  char
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0}
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0}
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-03-04T08:20:22.522, price=400.0}
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\TRANSACTION.xml, Transaction{id=2, TransType=PURCHASE, PlayerId=1, GameId=2, time=2019-03-04T08:20:22.522, price=1000.0}
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text='Great thing ever'}
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text='Very bad'}
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\PLAYER.xml
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\PUBLISHER.xml
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\GAME.xml
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\GAME.xml
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\TRANSACTION.xml
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:08.20.23  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\xml\REVIEW.xml
+03.04:08.21.32 DEBUG	ru.sfedu.gamestore.Client:20 - stardust: starting application.........
+03.04:08.21.32  INFO	ru.sfedu.gamestore.Client:21 - Input data source type: 
+03.04:08.22.08 ERROR	ru.sfedu.gamestore.Client:24 - wrong data source type: csv player get_all
+03.04:08.22.25 DEBUG	ru.sfedu.gamestore.Client:20 - stardust: starting application.........
+03.04:08.22.25  INFO	ru.sfedu.gamestore.Client:21 - Input data source type: 
+03.04:08.23.25 ERROR	ru.sfedu.gamestore.Client:78 - something wrong, error=java.lang.IllegalArgumentException: No enum constant ru.sfedu.gamestore.model.ModelType.GET_ALL
+03.04:08.23.40 ERROR	ru.sfedu.gamestore.Client:78 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException: 1
+03.04:08.23.59 ERROR	ru.sfedu.gamestore.Client:78 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException: 1
+03.04:08.24.30 ERROR	ru.sfedu.gamestore.Client:78 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException: 1
+03.04:08.24.35 ERROR	ru.sfedu.gamestore.Client:78 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException: 1
+03.04:08.28.36 DEBUG	ru.sfedu.gamestore.Client:20 - stardust: starting application.........
+03.04:08.28.36  INFO	ru.sfedu.gamestore.Client:21 - Input data source type: 
+03.04:08.30.10  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=1, title='StarCraft', publisherId=1, price=500.0}
+03.04:08.38.14 DEBUG	ru.sfedu.gamestore.Client:20 - stardust: starting application.........
+03.04:08.38.14  INFO	ru.sfedu.gamestore.Client:21 - Input data source type: 
+03.04:08.38.44  INFO	ru.sfedu.gamestore.Client:77 - Errors: [Game 1: broken publisher ref 1]
+03.04:08.38.55 ERROR	ru.sfedu.gamestore.Client:80 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException: 1
+03.04:08.40.37 DEBUG	ru.sfedu.gamestore.Client:20 - stardust: starting application.........
+03.04:08.40.37  INFO	ru.sfedu.gamestore.Client:21 - Input data source type: 
+03.04:08.40.45 ERROR	ru.sfedu.gamestore.Client:82 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException: 1
+03.04:10.18.05 DEBUG	ru.sfedu.gamestore.Client:20 - stardust: starting application.........
+03.04:10.18.05  INFO	ru.sfedu.gamestore.Client:21 - Input data source type: 
+03.04:10.21.12 ERROR	ru.sfedu.gamestore.Client:82 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException: 5
+03.04:10.27.02 ERROR	ru.sfedu.gamestore.Client:82 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException: 5
+03.04:10.27.21 ERROR	ru.sfedu.gamestore.Client:82 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException: 4
+03.04:10.37.02 ERROR	ru.sfedu.gamestore.Client:82 - something wrong, error=java.lang.Exception: Player 0: [incorrect list of games]
+03.04:10.37.29 ERROR	ru.sfedu.gamestore.Client:82 - something wrong, error=java.lang.Exception: Player 0: [incorrect list of games]
+03.04:10.39.36 DEBUG	ru.sfedu.gamestore.Client:20 - stardust: starting application.........
+03.04:10.39.36  INFO	ru.sfedu.gamestore.Client:21 - Input data source type: 
+03.04:10.39.48 ERROR	ru.sfedu.gamestore.Client:82 - something wrong, error=java.lang.Exception: Player 0: [incorrect list of games]
+03.04:10.43.48 DEBUG	ru.sfedu.gamestore.Client:20 - stardust: starting application.........
+03.04:10.43.48  INFO	ru.sfedu.gamestore.Client:21 - Input data source type: 
+03.04:10.44.02  INFO	ru.sfedu.gamestore.api.DataProviderCsv:189 - 1500
+03.04:10.44.02 ERROR	ru.sfedu.gamestore.Client:82 - something wrong, error=java.lang.Exception: Player 0: [incorrect list of games]
+03.04:10.45.30 DEBUG	ru.sfedu.gamestore.Client:20 - stardust: starting application.........
+03.04:10.45.30  INFO	ru.sfedu.gamestore.Client:21 - Input data source type: 
+03.04:11.03.01 DEBUG	ru.sfedu.gamestore.Client:20 - stardust: starting application.........
+03.04:11.03.01  INFO	ru.sfedu.gamestore.Client:21 - Input data source type: 
+03.04:11.05.18 ERROR	ru.sfedu.gamestore.Client:88 - something wrong, error=java.lang.Exception: Publisher 0: [incorrect account]
+03.25:04.17.13  INFO	ru.sfedu.gamestore.api.DataProviderXml:140 - java.io.FileNotFoundException: C:\game-store\test\xml\PLAYER.xml (Не удается найти указанный файл)
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:140 - java.io.FileNotFoundException: C:\game-store\test\xml\PLAYER.xml (Не удается найти указанный файл)
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:140 - java.io.FileNotFoundException: C:\game-store\test\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:140 - java.io.FileNotFoundException: C:\game-store\test\xml\PUBLISHER.xml (Не удается найти указанный файл)
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:140 - java.io.FileNotFoundException: C:\game-store\test\xml\GAME.xml (Не удается найти указанный файл)
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:140 - java.io.FileNotFoundException: C:\game-store\test\xml\GAME.xml (Не удается найти указанный файл)
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0, genre=STRATEGY}
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0, genre=ACTION}
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:140 - java.io.FileNotFoundException: C:\game-store\test\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:140 - java.io.FileNotFoundException: C:\game-store\test\xml\TRANSACTION.xml (Не удается найти указанный файл)
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\TRANSACTION.xml, Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-03-25T04:17:13.628, price=400.0}
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\TRANSACTION.xml, Transaction{id=2, TransType=PURCHASE, PlayerId=1, GameId=2, time=2019-03-25T04:17:13.630, price=1000.0}
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:140 - java.io.FileNotFoundException: C:\game-store\test\xml\REVIEW.xml (Не удается найти указанный файл)
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:140 - java.io.FileNotFoundException: C:\game-store\test\xml\REVIEW.xml (Не удается найти указанный файл)
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text='Great thing ever'}
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text='Very bad'}
+03.25:04.17.14  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\PLAYER.xml
+03.25:04.17.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\PLAYER.xml
+03.25:04.17.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\PUBLISHER.xml
+03.25:04.17.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\PUBLISHER.xml
+03.25:04.17.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\GAME.xml
+03.25:04.17.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\GAME.xml
+03.25:04.17.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\TRANSACTION.xml
+03.25:04.17.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\TRANSACTION.xml
+03.25:04.17.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\REVIEW.xml
+03.25:04.17.15  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\REVIEW.xml
+03.25:04.19.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\PLAYER.xml, Player{id=1, name='aaa', login='A', password='123', account=0.0, games=[1, 2]} 
+03.25:04.19.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\PLAYER.xml, Player{id=2, name='bbb', login='B', password='456', account=0.0, games=[2]} 
+03.25:04.19.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\PUBLISHER.xml, Publisher{id=1, name='P1arts', login='P1', password='123', account=0.0, description=} 
+03.25:04.19.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\PUBLISHER.xml, Publisher{id=2, name='P2vision', login='P2', password='qwerty', account=0.0, description=} 
+03.25:04.19.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\GAME.xml, Game{id=1, title='StarCraft', publisherId=1, price=400.0, genre=STRATEGY}
+03.25:04.19.09  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\GAME.xml, Game{id=2, title='Call of Duty', publisherId=1, price=1000.0, genre=ACTION}
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\TRANSACTION.xml, Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-03-25T04:19:09.223, price=400.0}
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\TRANSACTION.xml, Transaction{id=2, TransType=PURCHASE, PlayerId=1, GameId=2, time=2019-03-25T04:19:09.226, price=1000.0}
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\REVIEW.xml, Review{id=1, playerId=1, gameId=1, mark=98, text='Great thing ever'}
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:103 - Record has written into C:\game-store\test\xml\REVIEW.xml, Review{id=2, playerId=1, gameId=2, mark=44, text='Very bad'}
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\PLAYER.xml
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\PLAYER.xml
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\PUBLISHER.xml
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\PUBLISHER.xml
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\GAME.xml
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\GAME.xml
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\TRANSACTION.xml
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\TRANSACTION.xml
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\REVIEW.xml
+03.25:04.19.10  INFO	ru.sfedu.gamestore.api.DataProviderXml:123 - Record has written into C:\game-store\test\xml\REVIEW.xml
+04.01:08.19.26 DEBUG	ru.sfedu.gamestore.Client:23 - stardust: starting application.........
+04.01:08.19.26  INFO	ru.sfedu.gamestore.Client:24 - Input data source type: 
+04.01:08.19.51  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=1, name='A1', login='ad@com', password='qwerty', account=1500.0, games=[1, 2]} 
+04.01:08.22.38 DEBUG	ru.sfedu.gamestore.Client:23 - stardust: starting application.........
+04.01:08.22.38  INFO	ru.sfedu.gamestore.Client:24 - Input data source type: 
+04.01:08.23.26 DEBUG	ru.sfedu.gamestore.Client:23 - stardust: starting application.........
+04.01:08.23.26  INFO	ru.sfedu.gamestore.Client:24 - Input data source type: 
+04.01:08.25.28 DEBUG	ru.sfedu.gamestore.Client:23 - stardust: starting application.........
+04.01:08.25.28  INFO	ru.sfedu.gamestore.Client:24 - Input data source type: 
+04.01:08.27.07  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=1, name='Gamer1', login='g@com', password='qwer', account=1000.0, games=[]} 
+04.01:08.30.32  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=1, name='Gamer1', login='g@com', password='qwer', account=1000.0, games=[]} 
+04.01:08.30.32  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=2, name='Gamer1', login='g2@com', password='qwer', account=450.0, games=[]} 
+04.01:08.30.49  INFO	ru.sfedu.gamestore.Client:91 - deleted 1
+04.01:08.31.02  INFO	ru.sfedu.gamestore.Client:91 - deleted 2
+04.01:08.36.14  INFO	ru.sfedu.gamestore.Client:1257 - Publisher{id=1, name='Pub1', login='p1@com', password='qwer', account=0.0, description=p1-description} 
+04.01:08.45.36  INFO	ru.sfedu.gamestore.SpecificFunctionality:53 - Game bought!
+04.01:08.46.01  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=2, name='Gamer2', login='g2@com', password='qwer', account=450.0, games=[]} 
+04.01:08.46.01  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=3, name='Gamer3', login='g3@com', password='qwer', account=150.0, games=[]} 
+04.01:08.46.01  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=1, name='Gamer1', login='g1@com', password='qwer', account=500.0, games=[1]} 
+04.01:08.46.26  INFO	ru.sfedu.gamestore.Client:1257 - Publisher{id=2, name='Pub2', login='p2@com', password='qwer', account=0.0, description=p2-description} 
+04.01:08.46.26  INFO	ru.sfedu.gamestore.Client:1257 - Publisher{id=3, name='Pub3', login='p3@com', password='qwer', account=0.0, description=p3-description} 
+04.01:08.46.26  INFO	ru.sfedu.gamestore.Client:1257 - Publisher{id=1, name='Pub1', login='p1@com', password='qwer', account=500.0, description=p1-description} 
+04.01:08.54.08  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=1, title='Game1', publisherId=1, price=500.0, genre=FPS}
+04.01:08.54.08  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=2, title='Game2', publisherId=1, price=800.0, genre=ACTION}
+04.01:08.54.08  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=3, title='Game3', publisherId=2, price=150.0, genre=STRATEGY}
+04.01:08.54.08  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=4, title='Game4', publisherId=3, price=450.0, genre=SIMULATION}
+04.01:08.54.55  INFO	ru.sfedu.gamestore.SpecificFunctionality:53 - Game bought!
+04.01:08.54.59  INFO	ru.sfedu.gamestore.SpecificFunctionality:24 - Game is already bought
+04.01:08.55.39  INFO	ru.sfedu.gamestore.SpecificFunctionality:24 - Game is already bought
+04.01:08.57.30 DEBUG	ru.sfedu.gamestore.Client:23 - stardust: starting application.........
+04.01:08.57.30  INFO	ru.sfedu.gamestore.Client:24 - Input data source type: 
+04.01:09.06.15 DEBUG	ru.sfedu.gamestore.Client:23 - stardust: starting application.........
+04.01:09.06.15  INFO	ru.sfedu.gamestore.Client:24 - Input data source type: 
+04.01:09.07.08  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=1, title='Game1', publisherId=1, price=500.0, genre=FPS}
+04.01:09.07.08 ERROR	ru.sfedu.gamestore.Client:151 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException: 1
+04.01:09.11.47 DEBUG	ru.sfedu.gamestore.Client:25 - stardust: starting application.........
+04.01:09.11.47  INFO	ru.sfedu.gamestore.Client:26 - Input data source type: 
+04.01:09.12.09  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=1, title='Game1', publisherId=1, price=500.0, genre=FPS}
+04.01:09.13.13 DEBUG	ru.sfedu.gamestore.Client:25 - stardust: starting application.........
+04.01:09.13.13  INFO	ru.sfedu.gamestore.Client:26 - Input data source type: 
+04.01:09.21.39  INFO	ru.sfedu.gamestore.Client:120 - Games purchased: 2, games refunded: 0, profit: 650.0
+04.01:09.22.34  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=3, name='Gamer3', login='g3@com', password='qwer', account=150.0, games=[]} 
+04.01:09.22.34  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=1, name='Gamer1', login='g1@com', password='qwer', account=500.0, games=[1]} 
+04.01:09.22.34  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=2, name='Gamer2', login='g2@com', password='qwer', account=300.0, games=[3]} 
+04.01:09.22.54  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=1, title='Game1', publisherId=1, price=500.0, genre=FPS}
+04.01:09.22.54  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=2, title='Game2', publisherId=1, price=800.0, genre=ACTION}
+04.01:09.22.54  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=3, title='Game3', publisherId=2, price=150.0, genre=STRATEGY}
+04.01:09.22.54  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=4, title='Game4', publisherId=3, price=450.0, genre=SIMULATION}
+04.01:09.23.26  INFO	ru.sfedu.gamestore.Client:1257 - Transaction{id=1, TransType=PURCHASE, PlayerId=1, GameId=1, time=2019-04-01T08:45:36.578, price=500.0}
+04.01:09.23.26  INFO	ru.sfedu.gamestore.Client:1257 - Transaction{id=2, TransType=PURCHASE, PlayerId=2, GameId=3, time=2019-04-01T08:54:55.347, price=150.0}
+04.01:09.27.36 DEBUG	ru.sfedu.gamestore.Client:25 - stardust: starting application.........
+04.01:09.27.36  INFO	ru.sfedu.gamestore.Client:26 - Input data source type: 
+04.01:09.27.59  INFO	ru.sfedu.gamestore.Client:120 - Games purchased: 1, games refunded: 0, profit: 500.0
+04.01:09.28.56 DEBUG	ru.sfedu.gamestore.Client:25 - stardust: starting application.........
+04.01:09.28.56  INFO	ru.sfedu.gamestore.Client:26 - Input data source type: 
+04.01:09.29.00 ERROR	ru.sfedu.gamestore.Client:29 - wrong data source type: csv 
+04.01:09.29.08 DEBUG	ru.sfedu.gamestore.Client:25 - stardust: starting application.........
+04.01:09.29.08  INFO	ru.sfedu.gamestore.Client:26 - Input data source type: 
+04.01:09.29.19  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=3, name='Gamer3', login='g3@com', password='qwer', account=150.0, games=[]} 
+04.01:09.29.19  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=1, name='Gamer1', login='g1@com', password='qwer', account=500.0, games=[1]} 
+04.01:09.29.19  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=2, name='Gamer2', login='g2@com', password='qwer', account=300.0, games=[3]} 
+04.01:09.35.05 ERROR	ru.sfedu.gamestore.Client:153 - something wrong, error=java.lang.IllegalArgumentException: No enum constant ru.sfedu.gamestore.model.ModelType.GAMES
+04.01:09.35.12  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=1, title='Game1', publisherId=1, price=500.0, genre=FPS}
+04.01:09.35.12  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=2, title='Game2', publisherId=1, price=800.0, genre=ACTION}
+04.01:09.35.12  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=3, title='Game3', publisherId=2, price=150.0, genre=STRATEGY}
+04.01:09.35.12  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=4, title='Game4', publisherId=3, price=450.0, genre=SIMULATION}
+04.01:09.35.50  INFO	ru.sfedu.gamestore.SpecificFunctionality:53 - Game bought!
+04.01:09.36.01  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=3, name='Gamer3', login='g3@com', password='qwer', account=150.0, games=[]} 
+04.01:09.36.01  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=2, name='Gamer2', login='g2@com', password='qwer', account=300.0, games=[3]} 
+04.01:09.36.01  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=1, name='Gamer1', login='g1@com', password='qwer', account=350.0, games=[1, 3]} 
+04.01:09.36.41  INFO	ru.sfedu.gamestore.SpecificFunctionality:99 - Game refunded!
+04.01:09.36.55  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=3, name='Gamer3', login='g3@com', password='qwer', account=150.0, games=[]} 
+04.01:09.36.55  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=2, name='Gamer2', login='g2@com', password='qwer', account=300.0, games=[3]} 
+04.01:09.36.55  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=1, name='Gamer1', login='g1@com', password='qwer', account=500.0, games=[1]} 
+04.08:08.34.51 DEBUG	ru.sfedu.gamestore.Client:25 - stardust: starting application.........
+04.08:08.34.51  INFO	ru.sfedu.gamestore.Client:26 - Input data source type: 
+04.08:08.35.09  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=3, name='Gamer3', login='g3@com', password='qwer', account=150.0, games=[]} 
+04.08:08.35.09  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=2, name='Gamer2', login='g2@com', password='qwer', account=300.0, games=[3]} 
+04.08:08.35.09  INFO	ru.sfedu.gamestore.Client:1257 - Player{id=1, name='Gamer1', login='g1@com', password='qwer', account=500.0, games=[1]} 
+04.08:08.38.16 ERROR	ru.sfedu.gamestore.Client:157 - something wrong, error=java.lang.Exception: Review 0: [incorrect mark]
+04.08:08.40.30 DEBUG	ru.sfedu.gamestore.Client:25 - stardust: starting application.........
+04.08:08.40.30  INFO	ru.sfedu.gamestore.Client:26 - Input data source type: 
+04.08:08.40.38 ERROR	ru.sfedu.gamestore.Client:157 - something wrong, error=java.lang.Exception: Review 0: [incorrect GameId]
+04.08:08.42.50 DEBUG	ru.sfedu.gamestore.Client:25 - stardust: starting application.........
+04.08:08.42.50  INFO	ru.sfedu.gamestore.Client:26 - Input data source type: 
+04.08:08.43.07 DEBUG	ru.sfedu.gamestore.Client:25 - stardust: starting application.........
+04.08:08.43.07  INFO	ru.sfedu.gamestore.Client:26 - Input data source type: 
+04.08:08.44.20 ERROR	ru.sfedu.gamestore.Client:158 - something wrong, error=java.lang.Exception: Review 0: [incorrect GameId]
+04.08:08.53.07 DEBUG	ru.sfedu.gamestore.Client:27 - stardust: starting application.........
+04.08:08.53.07  INFO	ru.sfedu.gamestore.Client:28 - Input data source type: 
+04.08:08.53.12 ERROR	ru.sfedu.gamestore.Client:162 - something wrong, error=java.lang.Exception: Review 0: [incorrect mark]
+04.08:08.55.45 ERROR	ru.sfedu.gamestore.Client:162 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException: 4
+04.08:08.56.18 DEBUG	ru.sfedu.gamestore.Client:27 - stardust: starting application.........
+04.08:08.56.18  INFO	ru.sfedu.gamestore.Client:28 - Input data source type: 
+04.08:08.56.31 ERROR	ru.sfedu.gamestore.Client:162 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException
+04.08:08.57.33 DEBUG	ru.sfedu.gamestore.Client:27 - stardust: starting application.........
+04.08:08.57.33  INFO	ru.sfedu.gamestore.Client:28 - Input data source type: 
+04.08:08.57.41 ERROR	ru.sfedu.gamestore.Client:162 - something wrong, error=java.lang.ArrayIndexOutOfBoundsException: 4
+04.08:08.58.13 DEBUG	ru.sfedu.gamestore.Client:27 - stardust: starting application.........
+04.08:08.58.13  INFO	ru.sfedu.gamestore.Client:28 - Input data source type: 
+04.08:08.58.21  INFO	ru.sfedu.gamestore.SpecificFunctionality:137 - Mark not in 0 to 10
+04.08:09.00.07 DEBUG	ru.sfedu.gamestore.Client:27 - stardust: starting application.........
+04.08:09.00.07  INFO	ru.sfedu.gamestore.Client:28 - Input data source type: 
+04.08:09.00.18  INFO	ru.sfedu.gamestore.SpecificFunctionality:142 - Review added
+04.08:09.00.30  INFO	ru.sfedu.gamestore.Client:1257 - Review{id=1, playerId=1, gameId=1, mark=7, text=''}
+04.08:09.02.26 DEBUG	ru.sfedu.gamestore.Client:27 - stardust: starting application.........
+04.08:09.02.26  INFO	ru.sfedu.gamestore.Client:28 - Input data source type: 
+04.08:09.02.36  INFO	ru.sfedu.gamestore.SpecificFunctionality:142 - Review added
+04.08:09.02.44  INFO	ru.sfedu.gamestore.Client:1257 - Review{id=1, playerId=1, gameId=1, mark=7, text=''}
+04.08:09.02.44  INFO	ru.sfedu.gamestore.Client:1257 - Review{id=2, playerId=1, gameId=1, mark=7, text='Great'}
+04.08:09.03.12  INFO	ru.sfedu.gamestore.Client:95 - deleted 1
+04.08:09.03.22  INFO	ru.sfedu.gamestore.Client:1257 - Review{id=2, playerId=1, gameId=1, mark=7, text='Great'}
+04.08:09.04.42  INFO	ru.sfedu.gamestore.Client:1257 - Publisher{id=3, name='Pub3', login='p3@com', password='qwer', account=0.0, description=p3-description} 
+04.08:09.04.42  INFO	ru.sfedu.gamestore.Client:1257 - Publisher{id=1, name='Pub1', login='p1@com', password='qwer', account=500.0, description=p1-description} 
+04.08:09.04.42  INFO	ru.sfedu.gamestore.Client:1257 - Publisher{id=2, name='Pub2', login='p2@com', password='qwer', account=150.0, description=p2-description} 
+04.08:09.05.03  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=1, title='Game1', publisherId=1, price=500.0, genre=FPS}
+04.08:09.05.03  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=2, title='Game2', publisherId=1, price=800.0, genre=ACTION}
+04.08:09.05.03  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=3, title='Game3', publisherId=2, price=150.0, genre=STRATEGY}
+04.08:09.05.03  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=4, title='Game4', publisherId=3, price=450.0, genre=SIMULATION}
+04.08:09.06.37  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=1, title='Game1', publisherId=1, price=500.0, genre=FPS}
+04.08:09.06.37  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=2, title='Game2', publisherId=1, price=800.0, genre=ACTION}
+04.08:09.06.37  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=3, title='Game3', publisherId=2, price=150.0, genre=STRATEGY}
+04.08:09.06.37  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=4, title='Game4', publisherId=3, price=450.0, genre=SIMULATION}
+04.08:09.06.37  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=5, title='Game5', publisherId=2, price=230.0, genre=FPS}
+04.08:09.07.01  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=1, title='Game1', publisherId=1, price=500.0, genre=FPS}
+04.08:09.07.01  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=5, title='Game5', publisherId=2, price=230.0, genre=FPS}
+04.08:09.30.17 DEBUG	ru.sfedu.gamestore.Client:27 - stardust: starting application.........
+04.08:09.30.17  INFO	ru.sfedu.gamestore.Client:28 - Input data source type: 
+04.08:09.31.15 ERROR	ru.sfedu.gamestore.Client:163 - something wrong, error=java.lang.Exception: Review 0: [incorrect PlayerId]
+04.08:09.33.19 DEBUG	ru.sfedu.gamestore.Client:27 - stardust: starting application.........
+04.08:09.33.19  INFO	ru.sfedu.gamestore.Client:28 - Input data source type: 
+04.08:09.33.52 ERROR	ru.sfedu.gamestore.Client:163 - something wrong, error=java.lang.ClassCastException: ru.sfedu.gamestore.model.Player cannot be cast to ru.sfedu.gamestore.model.Publisher
+04.08:09.37.03 DEBUG	ru.sfedu.gamestore.Client:27 - stardust: starting application.........
+04.08:09.37.03  INFO	ru.sfedu.gamestore.Client:28 - Input data source type: 
+04.08:09.37.09 ERROR	ru.sfedu.gamestore.Client:163 - something wrong, error=java.lang.ClassCastException: ru.sfedu.gamestore.model.Player cannot be cast to ru.sfedu.gamestore.model.Publisher
+04.08:09.38.31 DEBUG	ru.sfedu.gamestore.Client:27 - stardust: starting application.........
+04.08:09.38.31  INFO	ru.sfedu.gamestore.Client:28 - Input data source type: 
+04.08:09.38.44  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=1, title='Game1', publisherId=1, price=500.0, genre=FPS}
+04.08:09.38.44  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=2, title='Game2', publisherId=1, price=800.0, genre=ACTION}
+04.08:09.38.44  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=3, title='Game3', publisherId=2, price=150.0, genre=STRATEGY}
+04.08:09.38.44  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=4, title='Game4', publisherId=3, price=450.0, genre=SIMULATION}
+04.08:09.38.44  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=5, title='Game5', publisherId=2, price=230.0, genre=FPS}
+04.08:09.38.44  INFO	ru.sfedu.gamestore.Client:1257 - Game{id=6, title='Smash', publisherId=3, price=50.0, genre=FPS}
+04.08:09.39.14  INFO	ru.sfedu.gamestore.SpecificFunctionality:236 - A game with this name already exists
+04.08:09.58.18 DEBUG	ru.sfedu.gamestore.Client:27 - stardust: starting application.........
+04.08:09.58.18  INFO	ru.sfedu.gamestore.Client:28 - Input data source type: 
